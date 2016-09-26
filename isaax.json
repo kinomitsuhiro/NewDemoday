@@ -1,0 +1,12 @@
+{
+  "name": "test0926",
+  "version": "",
+  "description": "javascript - raspberry-pi",
+  "main": "app.js",
+  "author": "",
+  "license": "",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependency": null
+}
